@@ -7,5 +7,7 @@ Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: pymongo
 Requires-Dist: certifi
+Requires-Dist: pymongo[srv]
+Requires-Dist: scikit-learn
 Dynamic: author
 Dynamic: requires-dist
